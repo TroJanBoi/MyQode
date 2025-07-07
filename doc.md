@@ -1,4 +1,6 @@
 # MyQode
 
 ## Show
-  - **Digital tube $${\color{red}port2}$$	show number $${\color{red}0}$$**
+  ```python
+  Digital tube port2 show number 0
+  ```
