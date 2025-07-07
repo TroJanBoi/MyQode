@@ -1,4 +1,4 @@
 # MyQode
 
 ## Show
-  - **Digital tube $${\color{red}port2}$$	show number `0`**
+  - **Digital tube $${\color{red}port2}$$	show number $${\color{red}0}$$**
