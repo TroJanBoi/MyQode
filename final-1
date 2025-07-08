@@ -1,4 +1,5 @@
-when program begin
+```blocks
+  when program begin
   set white_counter to 0
   forever
     if (abs of (read port2 gyro sensor X angle) > 3) or (abs of (read port2 gyro sensor Y angle) > 3)
@@ -34,3 +35,7 @@ when program begin
           stop moving
           set onboard double light to color green
           play note C4 for half beats
+```
+---
+```
+  
