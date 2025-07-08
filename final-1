@@ -1,4 +1,4 @@
-```blocks
+```python
   when program begin
   set white_counter to 0
   forever
